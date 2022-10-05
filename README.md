@@ -1,4 +1,4 @@
-# readme# 💫 About Me:
+💫 About Me:
 I am a Software Engineer with an interest in web technologies. Working on Java Projects. 
 
 
